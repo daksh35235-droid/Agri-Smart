@@ -1,0 +1,8 @@
+{
+  "name":"agri-smart",
+  "version":"1.0.0",
+  "description":"Agri-Smart farmer information and farm records portal",
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=18"}
+}
